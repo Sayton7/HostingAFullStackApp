@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 
-### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
+### **You can use access the front-end of the deployed app via this link: [Hosting Full-Stack Application](http://fullstackapp.s3-website-us-east-1.amazonaws.com).**
 
 ---
 
